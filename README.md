@@ -21,7 +21,7 @@
 
 {You should use this area to add a screenshot of an interesting view, and eventually, of your dashboard}
 
-<img src ="images/test.jpg" width="100px">
+<img src ="images/test.jpg" width="300px">
 
 ## Package requirements
 
