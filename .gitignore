@@ -1,6 +1,8 @@
-
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,visualstudio,python,jupyternotebooks,macos,windows,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,visualstudio,python,jupyternotebooks,macos,windows,linux
+
+# Add altairdata
+*/altairdata/*
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
